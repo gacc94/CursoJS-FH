@@ -1,0 +1,9 @@
+html,body {
+    margin: 0;
+    background-color: crimson;
+}
+
+img{
+    height: 50px;
+    width: 150px;
+}
